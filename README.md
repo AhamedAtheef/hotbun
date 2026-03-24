@@ -1,20 +1,76 @@
-<<<<<<< HEAD
-# hotbun
-=======
-# React + Vite
+# 🍔 HOT BUN - Restaurant Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HOT BUN is a modern and responsive restaurant landing page built using React and Tailwind CSS.
+It features a clean dark UI, smooth animations, and a user-friendly layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 🍽️ Modern restaurant design
+* 📱 Fully responsive (mobile, tablet, desktop)
+* 🎨 Dark theme UI
+* ⚡ Smooth animations
+* 🧭 Responsive navigation bar
+* 📍 Google Maps integration
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> c705dd6 (Initial commit)
+* React.js
+* Tailwind CSS
+* Framer Motion
+
+---
+
+## 📸 Sections
+
+* Home
+* Menu
+* Services
+* About
+* Contact
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/hot-bun.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd hot-bun
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run the project
+
+```bash
+npm run dev
+```
+
+---
+
+## 📍 Live Demo
+
+#https://hotbun.vercel.app/
+
+---
+
+## 💡 About
+
+This project is designed as a modern restaurant landing page to showcase menu items, services, and location in a clean and attractive way.
+
+
+⭐ Don’t forget to give this project a star if you like it!
