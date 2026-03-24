@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #ea580c; /* text-orange-600 */
+}
+
+/* Base custom styles using glassmorphism */
+.glass {
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.glow-text {
+  text-shadow: 0 0 20px rgba(234, 88, 12, 0.5); /* orange-600 */
+}
+
+.glow-btn {
+  box-shadow: 0 0 20px rgba(234, 88, 12, 0.3);
+  transition: box-shadow 0.3s ease;
+}
+
+.glow-btn:hover {
+  box-shadow: 0 0 30px rgba(234, 88, 12, 0.6);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
