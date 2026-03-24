@@ -176,7 +176,7 @@ export default function Contact() {
             className="w-full lg:w-2/3 h-[500px] lg:h-auto relative rounded-2xl overflow-hidden border border-white/10 shadow-2xl glass"
           >
             <iframe
-              src="https://www.google.com/maps?q=6.928287,79.851278&hl=en&z=15&output=embed"
+              src="https://www.google.com/maps?output=embed&q=6.928287,79.851278"
               className="w-full h-full border-0"
               loading="lazy"
             ></iframe>
